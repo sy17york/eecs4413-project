@@ -2,7 +2,7 @@
 2. import to your ide
 3. use tomacat (9.0)  to simulate web service
 4. admin user & ps : admin admin
-
+<hr>
 there are some demo pages of admin
 ![image](https://github.com/user-attachments/assets/baf67264-e41b-42d8-9d35-f47bbc3e015b)
 ![image](https://github.com/user-attachments/assets/5c039af6-1847-4287-b3be-90ba9b4d1cee)
