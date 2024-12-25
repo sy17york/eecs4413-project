@@ -3,7 +3,7 @@
 3. use tomacat (9.0)  to simulate web service
 4. admin user & ps : admin admin
 -----
-**there are some demo pages of admin**
+🚀 **there are some demo pages of admin** 🚀
 
 ![image](https://github.com/user-attachments/assets/baf67264-e41b-42d8-9d35-f47bbc3e015b)
 -----
